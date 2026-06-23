@@ -38,7 +38,7 @@ This repository contains the assignments and work completed during my Digital IC
 ## Day 5
 
 ### Task 1
-- [BCD Adder Testbench using SystemVerilog Interface](./day5/BCD_add_with_interface/)
+- [BCD Adder Testbench using SystemVerilog Interface](day5/Bcd_adder_interface)
 
 ### Task 2
 - [FIFO Testbench using SystemVerilog Interface](./day5/FIFO_with_interface/)
