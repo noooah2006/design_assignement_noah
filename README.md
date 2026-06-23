@@ -7,7 +7,7 @@ This repository contains the assignments and work completed during my Digital IC
 ## Day 1
 
 - [Ripple Carry Adder](./day1/Ripple_Carry_Adder/)
-- [BCD Adder](./day1/BCD_Adder/)
+- [BCD Adder](day1/BCD_Adder)
 
 ---
 
