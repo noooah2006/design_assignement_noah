@@ -26,7 +26,7 @@ This repository contains the assignments and work completed during my Digital IC
 - [Sequence Detector (1110)](./day3/Sequence_Detector1110/)
 
 ### Task 2
-- [FIFO Design with Face Detection Module](./day3/Task%202/)
+- [FIFO Design with Face Detection Module](day3/facedetector)
 
 ---
 
