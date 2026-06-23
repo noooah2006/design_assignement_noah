@@ -57,7 +57,7 @@ This repository contains the assignments and work completed during my Digital IC
 ## APB Protocol
 
 - [APB Design](day8/apb_protocol/design)
-- [APB Testbench](day8/APB_PROTOCOL/Testbench)
+- [APB Testbench](day8/apb_protocol/tb)
 
 
 
