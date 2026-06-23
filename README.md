@@ -48,7 +48,7 @@ This repository contains the assignments and work completed during my Digital IC
 ## Day 6
 
 ### Task 1
-- [FIFO Transaction Class using SystemVerilog OOP](./day6/transaction_class_fifo/)
+- [FIFO Transaction Class using SystemVerilog OOP](day6/fifotransaction)
 
 ---
 
