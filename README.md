@@ -16,7 +16,7 @@ This repository contains the assignments and work completed during my Digital IC
 - [2 to 4 Decoder](day2/2x4decoder)
 - [D Flip-Flop](day2/dff)
 - [SR Flip-Flop](day2/sr)
-- [Universal Shift Register](./day2/Universal_shift_register/)
+- [Universal Shift Register](day2/usr)
 
 ---
 
