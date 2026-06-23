@@ -32,7 +32,7 @@ This repository contains the assignments and work completed during my Digital IC
 
 ## Day 4
 
-- [Block Memory Generator (BRAM)](.day4/block_memory_generator)
+- [Block Memory Generator (BRAM)](day4/block_memory_generator )
 ---
 
 ## Day 5
