@@ -1,31 +1,69 @@
 # Digital IC Design Internship
 
-This repository contains the work I completed during my Digital IC Design Internship. During this internship, I learned how to design and test digital circuits using Verilog HDL. Each project includes the design code, a testbench for simulation, and documentation explaining the circuit and its working.
+This repository contains the assignments and work completed during my Digital IC Design Internship. The projects are implemented using Verilog/SystemVerilog HDL and verified through simulation and synthesis using Xilinx Vivado.
 
-The assignments helped me understand important digital design concepts such as combinational and sequential circuits, RTL coding, simulation, debugging, and verification. Through these tasks, I gained practical experience in developing digital hardware designs and following a structured design workflow.
+## Repository Structure
 
-## What You'll Find in This Repository
+## Day 1
 
-### Day 1
+- [Ripple Carry Adder](./day1/Ripple_Carry_Adder/)
+- [BCD Adder](./day1/BCD_Adder/)
 
-* **Ripple Carry Adder** – A 4-bit adder designed using full adders to perform binary addition.
-* **BCD Adder** – A Binary Coded Decimal adder that performs decimal addition with correction logic.
+---
 
-### Day 2
+## Day 2
 
-* **2×4 Decoder** – Converts a 2-bit input into one of four output lines.
-* **D Flip-Flop (DFF)** – A basic sequential circuit used for storing one bit of data.
-* **SR Flip-Flop** – A simple memory element with Set and Reset inputs.
-* **Universal Shift Register (USR)** – A versatile register capable of serial and parallel data operations.
+- [2 to 4 Decoder](./day2/2_to_4_decoder/)
+- [D Flip-Flop](./day2/D_flipflop/)
+- [SR Flip-Flop](./day2/SR_flip_flop/)
+- [Universal Shift Register](./day2/Universal_shift_register/)
 
-## Skills and Concepts Practiced
+---
 
-* Verilog HDL programming
-* Digital circuit design
-* Writing and running testbenches
-* Functional simulation and waveform analysis
-* Debugging digital designs
-* RTL design concepts
-* Git and GitHub for version control
+## Day 3
 
-This repository represents my hands-on learning and practice in Digital IC Design, showing the projects and concepts I worked on during the internship.
+### Task 1
+- [Sequence Detector (1110)](./day3/Sequence_Detector1110/)
+
+### Task 2
+- [FIFO Design with Face Detection Module](./day3/Task%202/)
+
+---
+
+## Day 4
+
+- [Block Memory Generator (BRAM)](./day4/Block%20Memory%20generator/)
+
+---
+
+## Day 5
+
+### Task 1
+- [BCD Adder Testbench using SystemVerilog Interface](./day5/BCD_add_with_interface/)
+
+### Task 2
+- [FIFO Testbench using SystemVerilog Interface](./day5/FIFO_with_interface/)
+
+---
+
+## Day 6
+
+### Task 1
+- [FIFO Transaction Class using SystemVerilog OOP](./day6/transaction_class_fifo/)
+
+---
+
+# Day 8
+
+## APB Protocol
+
+- [APB Design](day8/APB_PROTOCOL/DESIGN/)
+- [APB Testbench](day8/APB_PROTOCOL/Testbench)
+
+
+
+## Author
+
+**NOAH MATHEW JOSE**
+
+Digital IC Design Internship Repository
