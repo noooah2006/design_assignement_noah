@@ -23,7 +23,7 @@ This repository contains the assignments and work completed during my Digital IC
 ## Day 3
 
 ### Task 1
-- [Sequence Detector (1110)](day3/sequence detector)
+- [Sequence Detector (1110)](day3/sequence_detector)
 
 ### Task 2
 - [FIFO Design with Face Detection Module](day3/facedetector)
@@ -32,8 +32,7 @@ This repository contains the assignments and work completed during my Digital IC
 
 ## Day 4
 
-- [Block Memory Generator (BRAM)](./day4/Block%20Memory%20generator/)
-
+- [Block Memory Generator (BRAM)](.day4/block_memory_generator)
 ---
 
 ## Day 5
